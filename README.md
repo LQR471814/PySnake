@@ -1,1 +1,1 @@
-**Snake in python!**
+Snake in Python
